@@ -1,0 +1,54 @@
+When seeking information about the financial health of a company, the first place investors often look is the 10-K or 10-Q. But the proxy statement can be just as revealing, as it delves into business relationships, the backgrounds, and compensation of corporate officers.
+A proxy statement is a document provided by public corporations so that their shareholders can understand how to vote at shareholder meetings and make informed decisions about how to delegate their votes to a proxy. Issues covered in a proxy statement can include proposals for new additions to the board of directors, information on directors' salaries, information on bonus and options plans for directors, corporate actions like proposed mergers or acquisitions, dividend payouts, and any other declarations made by the company's management.
+Below is some of the information you can glean from this important document.
+Key Takeaways
+- As a shareholder, you are entitled to vote by proxy on the important issues that impact a company's financials, even if you can't attend the meeting in person.
+- The proxy statement provides details about management, their experience, and qualifications.
+- The document also provides important information on their compensation, and whether their compensation structure is aligned with shareholder interests.
+- The proxy statement can reveal potential conflicts of interests, such as related-party transactions that may not be beneficial to the company.
+- Another thing to look for is company loans advanced to senior executives. These loans can deprive the company of capital, are often made on generous terms, and sometimes are forgiven, footing shareholders with the bill.
+How to Find a Proxy Statement
+Because proxy statements are required regulatory documents, they are kept on file for public view using the SEC's database, known as EDGAR. From the EDGAR web portal, simply enter the company’s name here and select the appropriate entry to view its SEC filings, including its proxy statement.
+To view the most recent proxy statement, find the entry for the latest SEC Form DEF 14A, also known as a "definitive proxy statement," which is a required filing when a shareholder vote is required. The Form DEF 14A outlines the list of items up for vote by shareholders, such as the hiring of new directors or other business decisions.
+The EDGAR database will also let you view proxy materials issued at earlier points in time for comparison or research purposes.
+Proxy voting is often the sole means by which investors can have a say in the business operations and societal activities of the companies that they are shareholders of.
+Profile of Management
+The proxy provides detailed information about a company's chief executive officer, chair, and board of directors. This is valuable because it gives investors insight into officers' abilities and experience.
+Have the officers worked in the industry before? Did they move up the corporate ladder in typical fashion, or were they somehow transplanted from another industry? Do they sit on boards at other companies? Do they have any potential conflicts of interest? Are their duties spread too thin? These are important questions the proxy can often answer.
+Insider Ownership and Executive Compensation
+The proxy statement can tell you whether a company is being run for the benefit of shareholders, or for the benefit of insiders. One section will detail executive compensation and how much board of directors members get paid.
+Also, look at their option positions. Does the board and management have a vested interest in seeing the shares rise? Or are they merely collecting a fat paycheck?
+Ideally, you want to see a large percentage of management's pay coming from out-of-the-money call options, meaning options that are currently worthless but could be worth a bundle if the share price moves materially higher. Put simply, option-based stock compensation gives management an incentive to enhance shareholder value and to find ways to drive the share price higher.
+Senior-Level Loans
+Sometimes in the course of business, companies will make sweetheart deals with their senior-level executives. These loans are sometimes in the hundreds of thousands or even millions of dollars. This is bad for the average shareholder for several reasons.
+First, the company should not be acting as a bank. Its capital, if it were looking out for the common shareholder, should ideally be retained to spur business-related growth, or be paid back to the shareholders in the form of a dividend.
+A second issue is that the interest rate being charged on these loans is often below what is being offered in the broader lending market. This is problematic because it means the company is being inadequately compensated for making the loans. A third problem—and perhaps the most worrisome—is that many times companies will forgive these loans entirely, particularly if the employee is fired or retires, leaving shareholders to foot the bill.
+Changes in Auditors
+Sometimes a company will switch auditing companies. The proxy will outline the rationale behind the change and give the investor some insight into whether it was a legitimate switch or due to a disagreement on accounting practices.
+Overall Health of the Business
+Similar to an annual or quarterly filing, in a proxy statement, management will also typically include a general discussion about the overall health of the business. Interesting insights can often be gleaned from information on the backlog, gross margin trends, balance sheet opportunities, or other concerns.
+Detailed Business Plans
+The proxy will detail business plans or issues on which the board may vote. This information, while sometimes contained in the 10-K, is often much more concise and easy to read in the proxy statement.
+This valuable information should be analyzed by the investor to determine whether the company is facing any potential challenges down the road, or if there are any opportunities that management has not outlined on conference calls, or in the management discussion and analysis section of the 10-K or 10-Q.
+Related Party Transactions
+In the proxy, there will also be a section that reveals related party transactions. Look for potential conflicts of interest or sweetheart deals that management has set up for themselves.
+For example, is the company obtaining a critical raw material for its products from another company owned by the chief executive? If so, perhaps the company may be paying more than it has to. Too many conflicts of interest should certainly pique your interest as a shareholder and make you wary of the company's investment merits.
+Litigation Risks
+The company may describe litigation risks in the footnotes of other financial statements. The proxy will often comment on the potential outcomes of certain suits, or the possibility that management may set aside money in the form of a reserve to pay for the potential loss of a suit.
+Example of a Proxy Statement
+Proxy statements can be long, technical documents that are difficult to read. But these documents can also provide crucial insight into a company's operations in addition to management's intentions requiring a shareholder vote.
+In its 2021 proxy statement, for instance, says that "Apple's significant business risks" include, among other matters, "antitrust compliance." Moreover, it indicates that Apple has an "Antitrust Compliance Officer" who works closely with the Audit Committee of the company's board of directors, which has "primary responsibility for overseeing enterprise risk management," including "antitrust compliance."
+A section headed "Selected Areas of Audit Committee Oversight" includes a paragraph on antitrust. It states, in full:
+The Audit Committee and Board regularly review and discuss with management Apple's antitrust risks. Apple's Antitrust Compliance Officer is responsible for the development, review, and execution of Apple's Antitrust Compliance Program and regularly reports to the Audit Committee. These reports cover, among other matters, the alignment of the program with Apple's potential antitrust risks, and the effectiveness of the program's design in detecting and preventing antitrust issues and promoting compliance with laws and Apple policies.
+Apple's proxy statement also asserts that experience in "antitrust compliance" is among the qualifications considered in the selection of directors. However, the thumbnail biographies of the eight directors, including the four who are members of the Audit Committee, do not indicate specifically what, if any, experience in antitrust compliance these people have.
+You can view the entirety of Apple's proxy statement here.
+The Bottom Line
+The proxy statement is probably the most overlooked form that is filed with the Securities and Exchange Commission (SEC). However, it can inform and enlighten the curious and diligent investor.
+Frequently Asked Questions
+Why are proxy statements important for investors?
+A proxy statement is most relevant for shareholders preparing for a company's special or annual meeting in order to get information on how they should vote, in-person or via a proxy. As a shareholder, investors have the right to express their voice on the company and its direction via votes, often one vote per share.
+This document can also aid potential investors in assessing the qualifications and compensation of its management team and board of directors. A finding that chief officers of an underperforming company are paid compensation significantly above those of peers may raise a red flag of excessive spending and weigh on an investor's decision of undertaking an investment.
+What is SEC Form DEF 14A?
+Form DEF 14A is the official name given to the final version of a company's proxy statement filing. It's called a "DEF 14A" because it's the "definitive," or final, proxy statement. "14A" refers to the fact that proxy statements are filed pursuant to Section 14(a) of the Securities Exchange Act of 1934.
+How is a proxy statement used in shareholder voting?
+Today, publicly traded corporations have many thousands of shareholders all over the country, and even around the world. As such, these individuals cannot all attend the company's annual meeting to vote in person. Instead, the proxy statement allows shareholders to choose how they will vote and then send that to a third party, known as the proxy, who will vote collectively on their behalf.

@@ -1,0 +1,174 @@
+Proxy Voting and Shareholder
+Engagement FAQ
+1
+
+What is a proxy vote?
+
+As an independent asset manager, BlackRock holds shares of a wide range of companies on behalf of our
+clients. These shares entitle the holders to vote on various issues put forth by the company and its
+shareholders at the company’s annual meeting or at a special meeting. If a shareholder is unable to attend the
+meeting in person they may elect to vote their shares by means of a proxy ballot. BlackRock votes these proxies
+on behalf of clients that have authorized us to do so. Examples of issues that might be included on a proxy
+ballot are the election of the board of directors, ratification of auditors, approval of executive compensation
+plans, and approval of proposed mergers and acquisitions.
+
+2
+
+Who at BlackRock is responsible for voting proxies of companies
+held in clients' accounts?
+
+BlackRock’s proxy voting process is led by the BlackRock Investment Stewardship (BIS) team, which consists of
+three regional teams - Americas, Asia-Pacific (“APAC”), and Europe, Middle East and Africa (“EMEA”) - located
+in seven offices around the world.
+
+BIS is strategically positioned as an investment function and bridges BlackRock’s various portfolio
+management groups. It helps to protect and enhance the value of our clients’ assets across the full range of
+mandates that includes alpha-seeking, factor, indexing, and sustainability strategies. The team confers
+regularly with BlackRock’s equity and credit analysts and portfolio managers to share insights on material ESG
+topics relevant to investment decisions.
+BIS maintains three regional advisory committees (“Stewardship Advisory Committees”) for the Americas,
+APAC, and EMEA which review and advise on amendments to the proxy voting guidelines covering markets
+within each respective region. These Committees generally consist of senior BlackRock investment
+professionals and/or senior employees with practical boardroom experience. In addition to the regional
+Committees, the BIS Global Risk Oversight Committee is a risk-focused committee which oversees compliance
+with BIS’s duties and regulatory responsibilities relating to proxy voting and market-level stewardship codes. It
+reviews and approves amendments to BIS’s Global Corporate Governance & Engagement Principles and
+market-specific voting guidelines. The Global Risk Oversight Committee is comprised of senior representatives
+from various BlackRock investment teams, BlackRock’s Deputy General Counsel, the Global Head of
+Investment Stewardship, the BlackRock Global Executive Committee member to whom the BIS team reports,
+and other senior executives with relevant investment and risk oversight experience.
+
+3
+
+Does BlackRock vote proxies for every annual meeting of
+companies in which it holds shares?
+
+We aim to vote at 100% of meetings where our clients have given us authority to vote their shares, and
+therefore vote at approximately 16,000 shareholder meetings in approximately 85 markets each year. With
+regards to non-U.S. holdings, generally we estimate that we vote successfully at approximately 90% of
+meetings. Of the remaining, 8% are not voted due to shareblocking and 2% are not voted due to either the
+fund’s leverage, impediments such as ballots received post cut-off date or post meeting date, or other
+restrictions like in-person attendance or power of attorney being required in order to vote.
+
+March 2021 | Investment Stewardship Group
+
+4
+
+Does BlackRock make its proxy voting record publicly available?
+
+Yes. We file a full voting record (known as Form N-PX filings) with the U.S. Securities and Exchange
+Commission each year at the end of August, and publish the link to those filings on our website. Additionally,
+we disclose our voting record on a quarterly basis on our website. The quarterly voting report provides details of
+each shareholder meeting at which we cast votes globally, including the vote instruction by proposal and a
+high-level, standardized explanation of any votes cast against management. The searchable record can be
+found in the proxy voting history section of the Investment Stewardship website.
+In addition, we publish quarterly and annual reports that provide more context about the team’s global voting
+and engagement activities.
+
+5
+
+How does BlackRock determine how to vote on specific issues?
+
+We vote to achieve the outcome that, in our professional judgement, is aligned with the best long-term
+economic interests of our clients.
+In our analysis, we may take into account company-specific circumstances. The framework for our analysis and
+decision is explained in our published global governance principles and market-specific voting guidelines,
+which are available on our website.
+
+These guidelines address our views on issues on which shareholders may be asked to vote such as:
+• boards and directors,
+• accounting and audit-related issues,
+• capital structure, mergers, asset sales, and other special transactions,
+
+• compensation and benefits,
+• environmental and social issues, and
+• general corporate governance matters.
+
+We do not disclose publicly in advance of a meeting how we have voted or intend to vote.
+
+6
+
+How does BlackRock vote on management and shareholder
+proposals? Are there circumstances in which BlackRock
+abstains from voting?
+
+We cast informed votes aligned with clients’ long-term economic interests. Our governance and voting
+guidelines provide a framework for us in making those decisions; we may divert from those guidelines if there is
+a compelling reason. We generally assess management and shareholder proposals on a case-by-case basis.
+
+We may signal concern about a company’s approach to corporate governance and business practices,
+including material environmental and social factors, by voting against management proposals or for a
+shareholder proposal. Given their duty to represent shareholder interests, amongst others, we will generally
+hold directors accountable where we believe they have fallen short or a company is insufficiently responsive to
+shareholder concerns. We will usually engage with company leadership where we have concerns about a
+company’s approach to corporate governance or business practices to understand the company’s perspective
+and provide our feedback.
+We believe engagement with companies is critical to ensuring that we vote on an informed basis to protect our
+clients’ long-term economic interests. We may vote against management if the company cannot provide a
+sufficiently robust explanation of its approach to allay our concerns.
+Similarly, we may support a shareholder proposal when, in our analysis, the company has not taken sufficient
+steps to address a concern and there are possible or realized reputational, operational, or financial
+ramifications resulting from poor management or board oversight of an issue.
+BLACKROCK
+
+Investment Stewardship Group
+
+2
+
+We ordinarily refrain from abstaining from both management and shareholder proposals, unless abstaining is
+the valid vote option (in accordance with company by-laws) to signal concern to management, there is a lack of
+disclosure regarding the proposal to be voted, or an abstention is the only way to implement our voting
+intention.
+
+7
+
+Does BlackRock follow the recommendations of proxy advisors
+such as ISS and Glass Lewis?
+
+The BIS team performs independent research and analysis, coming to vote conclusions that are consistent
+with our own voting guidelines and that we believe are in the best long-term economic interests of our clients.
+The team does not follow the recommendations of any single proxy advisor. While we subscribe to research
+from several proxy advisory firms, their research is one among many inputs into our vote analysis process. We
+do not blindly follow proxy advisors’ recommendations on how to vote. We use proxy research firms primarily to
+synthesize corporate governance information and analysis into a concise, easily reviewable format so that our
+analysts can readily identify and prioritize those companies where our own additional research and
+engagement would be beneficial.
+BlackRock performs annual in-person due diligence of the lead firm whose research and services we use.
+As we outlined in our 2018 letterto the Securities and Exchange Commission (SEC), we believe that
+improvements can be made throughout the proxy process, including around voting processes, shareholder
+proposals, and proxy advisors. Proxy advisors play an important role in the corporate governance ecosystem;
+however, we think that some improvements would benefit all stakeholders.
+
+8
+
+Does BlackRock engage with companies in addition to proxy voting?
+
+BlackRock, as a fiduciary investor, undertakes all investment stewardship engagements and proxy voting with
+the goal of protecting and enhancing the long-term value of our clients’ assets.
+BIS engages with leadership of portfolio companies to encourage them to adopt corporate governance and
+business practices aligned with long-term financial performance. The team is positioned within the firm as an
+investment function and is comprised of dedicated professionals across all regions, taking a local approach
+with companies while benefiting from global insights. BIS works with the members of BlackRock’s equity and
+credit investment teams to share insights on material ESG topics relevant to investment decisions. BIS
+engages with companies in the same long-term frame, irrespective of whether a holding is in alpha-seeking,
+factor, or indexing strategies.
+Engagement is not a single conversation. We have ongoing dialogue with companies to evaluate their business
+practices and explain our views over time. Engagement is a key mechanism for providing feedback or signaling
+concerns to companies about factors that affect long-term financial performance. Where we believe a
+company’s governance or business practices fall short, we ask probing questions, explain our concerns and
+expectations and then allow time for a measured response. In addition to meeting with executives and board
+directors, we may also communicate with the company’s advisors (investment relations, legal teams, etc.), and
+engage with other shareholders where appropriate. In our view, companies that embrace corporate governance
+as a strategic objective – as opposed to a compliance function – are more likely to generate sustained financial
+returns over time.
+BIS averages approximately 3,000 company engagements annually. We expect to increase the number of
+companies we engage over time as the team grows and as more companies seek feedback from BlackRock as a
+long-term shareholder.
+
+BLACKROCK
+
+Investment Stewardship Group
+
+3
+
+

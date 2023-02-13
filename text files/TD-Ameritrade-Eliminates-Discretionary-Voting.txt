@@ -1,0 +1,37 @@
+
+TD Ameritrade Eliminates Discretionary Voting
+
+Potential for Major Impact on Voting
+TD Ameritrade’s elimination of the practice of issuing discretionary voting at meetings of shareholders may have a major impact on the number of shares represented at shareholder meetings in the 2021 proxy season and beyond.
+
+TD Ameritrade (TD) is one of the country’s largest brokerage firms, providing investing and trading services to over 11 million client accounts with more than $1 trillion in assets, according to the company’s website. The shares custodied at TD often represent the largest brokerage position for many issuers, therefore, the loss of the discretionary vote from TD is significant. The change at TD follows the elimination of discretionary voting by Charles Schwab and other brokers and continues a disturbing trend for issuers that rely on the discretionary vote.
+
+What is discretionary voting?
+Under the rules of the New York Stock Exchange (NYSE), brokers can vote “in their discretion” on matters that the NYSE deems to be “routine”, such as the appointment of auditors, reverse stock splits, and increases in authorized common stock (with certain exemptions). (See https://www.sec.gov/investor/alerts/votinginannualshareholdersmeetings.pdf)
+
+What this means is that when an issuer has a shareholder meeting, they will send proxy material to all shareholders, including those that hold shares through brokers (in “broker name”). If shareholders holding in broker name (often referred to as “retail holders”) do not return a proxy to their broker, their broker has the right to vote those uninstructed shares using the discretionary voting authority granted by the NYSE. (See https://www.sec.gov/investor/alerts/votinginannualshareholdersmeetings.pdf)
+
+By way of example, if a broker holds 1,000,000 shares on behalf of underlying retail holders, and those retail holders only vote 200,000 shares, the broker can vote the remaining 800,000 in its discretion and will issue a proxy for 1,000,000 shares.
+
+Brokers have the choice of not voting the 800,000 unvoted shares or voting the uninstructed in their discretion. Brokers that issue discretionary voting have the option of voting all uninstructed fully in their discretion (typically in line with the board’s recommendation), or the broker can vote shares in the same proportion (For, Against or Abstain) as the shares voted by retail holders that returned a proxy (proportional voting).
+
+Without discretionary voting, the broker could only issue a proxy for 200,000 shares.
+
+Why is this important?
+The decline in discretionary voting, now exacerbated by the loss of TD’s discretionary vote, is a real concern for many issuers that rely on the discretionary vote. This is because, without the discretionary vote, the returns from retail holders often clocks in at under 25% of the shares held by those holders.
+
+For some issuers, especially small cap companies or those in certain sectors, that have a significant number of shares held by retail holders in broker name (often over 50% of the outstanding shares), the decline in the discretionary vote poses problems on two fronts.
+
+The first problem may be obtaining enough votes just to reach a quorum necessary to hold the annual meeting. For most companies, the ability to conduct business at their annual meeting requires that a quorum of 50% of the outstanding shares be represented at the meeting either in person or by proxy.
+
+To ensure a quorum, many companies include the approval of auditors (which, as noted, is routine and allows brokers to issue a discretionary vote) on the agenda solely to trigger the discretionary vote. But with the decline in overall discretionary voting, the dilemma some issuers will face is simply achieving a quorum of 50%.
+
+The second problem is the impact that the loss of the discretionary vote will have on specific proposals, such as reverse splits and increases in authorized. Over the years, many issuers have depended on the broker discretionary vote to pass these proposals. However, as with achieving enough votes for a quorum, the ability to pass these proposals may now be in doubt.
+
+Even companies that are not concerned about achieving a quorum to hold the annual meeting or passing certain proposals, should be cognizant of the fact that the loss of the TD discretionary vote may result in a decline in their overall vote. Alerting senior management and the board to this fact, in advance of the annual meeting, may be prudent.
+
+What to Do?
+The elimination of discretionary voting at TD and other brokers means that issuers need to take a hard look at their shareholder profile in advance of a solicitation to determine the number of shares held by brokers; specifically, by those brokers that issue a discretionary vote and those that do not. This analysis is critical to determine how the diminished broker discretionary vote will impact the vote at the 2021 annual meeting and whether additional measures (phone calls, mailings, etc.) may be needed to increase voting.
+
+It is likely that the deterioration of the broker discretionary voting will continue. We will monitor these changes and alert our clients to significant developments that may impact their annual shareholder meetings.
+

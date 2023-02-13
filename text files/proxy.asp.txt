@@ -1,0 +1,33 @@
+What Is a Proxy?
+A proxy is an agent legally authorized to act on behalf of another party or a format that allows an investor to vote without being physically present at the meeting. Shareholders not attending a company's annual general meeting (AGM) may vote their shares by proxy by allowing someone else to cast votes on their behalf, or they may vote by mail.
+Key Takeaways
+- A proxy is an agent legally authorized to act on behalf of another party.
+- The proxy may also allow an investor to vote without being physically present at the annual shareholder's meeting.
+- Management ensures ownership interests are fully represented by encouraging shareholders who are unable to attend annual meetings to vote by proxy.
+- A Proxy Statement is a packet of documents containing information necessary to make informed votes on issues facing the company.
+How Does a Proxy Work?
+While proxy voting is often an option, management encourages shareholders to vote in person. If the shareholder cannot attend, voting by proxy is another option. For a person to act as a proxy for an individual, formal documentation may be required that outlines the extent to which the proxy can speak on the individual's behalf.
+A formal power of attorney document may be required to provide the permissions to complete certain actions. The shareholder signs a power of attorney and extends official authorization to the designated individual to vote on behalf of the stated shareholder at the annual meeting.
+A proxy cannot vote if the shareholder arrives late and decides to vote for their own self.
+Proxy Statements
+Before the annual shareholder meeting, all shareholders receive a packet of information containing the Proxy Statement. The proxy documents provide shareholders with the information necessary to make informed votes on issues important to the company's performance. A Proxy statement offers shareholders and prospective investors insight into a company's governance and management operations.
+The proxy discloses important information on agenda items for the annual meeting, lists the qualifications of management and board members, serves as a ballot for elections to the board of directors, lists the largest shareholders of a company's stock, and provides detailed information about executive compensation. There are also proposals from management and shareholders.
+Proxy statements must be filed with regulatory authorities, such as the Securities and Exchange Commission (SEC) in the United States, on an annual basis before the company's annual meeting.
+When voting by proxy remotely, shareholders may be eligible to vote by mail, phone, or internet. Shareholders use the information in the proxy statements to aid in the decision-making process.
+Anyone can look up a public company's proxy statement via the SEC website under the name "DEF 14A."
+Benefits of Proxy
+Management ensures that ownership interests are fully represented by encouraging shareholders that are unable to attend annual meetings to vote by proxy. Before the annual meeting, each shareholder is issued a proxy card, allowing them to state their votes in writing or designate a third party to vote on their behalf.
+Proxy voting allows shareholders to vote on the composition of the company's board, the compensation of its officers, and the company's accounting firm. It also allows voting on shareholder proposals.
+During corporate elections, the board of elections will recommend their preferred candidates or choices, but the final decision is up to each voter.
+Real-World Example of a Proxy
+Below is a portion of the proxy statement for Tesla Motors in 2022. It lists the date and time of the company's annual general meeting and has instructions for shareholders who wish to participate in the meeting virtually. It also lists the company officers and shareholder proposals that are to be voted on in the meeting, along with the board's recommendations.
+Proxy Card
+Below is the proxy card showing the specific board members that were to be voted on as well as some of the proposals by management. If the shareholder wanted to vote, the proxy card could be mailed to the corporation.
+When Does a Proxy Statement Need to be Filed?
+Public companies must file a proxy statement before any meeting where the management submits proposals for a shareholder vote. This can include the election of directors, votes on shareholder proposals, or other corporate decision-making.
+What Is in a Proxy Statement?
+A typical proxy statement states the date and location of the next shareholder assembly, along with instructions for shareholders who cannot attend in person. It will also include a detailed agenda for the meeting, including elections of directors and shareholder proposals.
+Where Can You Find a Proxy Statement?
+Public companies will send their proxy statements to the shareholders of record, either through the mail or electronically. You can usually find proxy statements on the company's website. In addition, public companies are also required to file their proxy statements with the Securities and Exchange Commission, or the equivalent regulator in the country where the company is domiciled.
+The Bottom Line
+In business, a proxy allows shareholders to participate in corporate governance even if they cannot be physically present at the general meeting. Proxies are essential in the global economy, where an individual investor might own shares in many companies around the world.

@@ -1,0 +1,537 @@
+MUTUAL FUND SOLUTIONS
+
+Next-generation proxy voting
+How data-driven analytics, omni-channel delivery and
+blockchain are helping mutual funds achieve their proxy goals.
+
+Forward-looking funds use next-gen technologies to
+transform today’s challenges into tomorrow’s opportunities.
+Gone are the days where proxy mailings and phone calls represent
+the only means of shareholder engagement. Today, innovations
+are helping funds target and engage shareholders in ways that
+strengthen long-term relationships and maximize participation.
+
+When it comes to proxy voting, mutual funds face
+unique challenges. Unlike corporate issuers, mutual
+funds rely heavily on retail shareholders who are less
+likely to vote. Low voter interest combined with a
+lack of actionable shareholder data makes it harder
+to drive engagement.
+On the back end, mutual funds struggle to ensure
+vote integrity — missing votes and overvoting
+sometimes throw meeting outcomes into question.
+And increasing costs continue to plague even the
+most well-planned campaigns.
+
+INNOVATORS DON’T ABANDON
+TRADITIONAL METHODS OF
+ENGAGEMENT. INSTEAD, THEY
+BUILD ON PROVEN TECHNIQUES.
+
+2
+
+BROADRIDGE
+
+To address these challenges, best practices
+suggest supplementing traditional, paper-based
+communications with next-gen digital tools to execute
+comprehensive strategies that improve outcomes
+while lowering overall costs. Below are the myriad
+ways leading funds leverage new technologies to
+transform governance and the proxy process.
+
+In this paper, you’ll discover how new
+technologies, like advanced analytics,
+omni-channel communication and
+blockchain can help funds:
+PLAN THE VOTE
+Execute data-driven campaign planning
+and management.
+DRIVE THE VOTE
+Deliver more impactful communications.
+CAPTURE THE VOTE
+Make voting easier for shareholders.
+PROCESS THE VOTE
+Transform processing and reconciliation.
+
+NEXT-GENERATION PROXY VOTING
+
+3
+
+AN UPHILL CLIMB
+
+Corporate issuers can rely almost exclusively on institutional
+shareholders to achieve their voting goals — a whopping
+91 percent of institutional shares were voted in the last
+six years. Mutual funds, by contrast, enjoy no such luxury.
+Roughly 95 percent of all accounts holding mutual fund
+shares are retail accounts, which vote at much lower rates.
+In fact, over the last six years, only 12 percent of retail
+accounts holding mutual funds voted their shares.
+Such low retail voting rates pose serious risks for funds.
+Mutual fund proxy votes occur only when there is a proposal
+significantly impacting the fund’s prospectus, or involves
+the approval of a merger, new governance arrangement or
+advisory contract. If a mutual fund cannot attain quorum
+and garner enough votes to ensure proposal passage, the
+ramifications can be costly. Mergers might be abandoned
+altogether, advisory contracts can lapse and funds may
+forfeit incurred expense.
+Mutual funds must be far more proactive than corporate
+issuers when it comes to driving — and processing — the
+vote. Funds must get it right the first time. From vote
+planning to reconciliation and validation, there’s little room
+for error.
+
+BY THE NUMBERS: MUTUAL FUND PROXIES
+
+91%
+
+of institutional
+shares were voted in
+the last six years
+
+4
+
+BROADRIDGE
+
+95%
+
+of all accounts
+holding mutual fund
+shares are retail
+accounts
+
+12%
+
+of retail accounts
+holding mutual funds
+voted their
+shares
+
+PLAN THE VOTE
+Execute data-driven campaign planning and management.
+
+Any proxy solicitation campaign is essentially a math exercise.
+You start with the total vote requirement, identify likely
+institutional votes and then, finally, deduce outstanding retail
+votes. The formula is easy enough. But the challenge is figuring
+out what to plug into each variable. That’s where advanced data
+analytics is the difference-maker.
+Some funds use data aggregation technologies to compile
+historical voting statistics. These tools enable funds to identify
+who has voted in the past and who is likely to vote in the future.
+Other funds rely on select proxy service providers for access to
+enormous longitudinal datasets. Both approaches help unlock
+segmented insight at a unique level of granular detail.
+During voting, funds may perform a propensity-to-vote
+analysis to identify specific shareholder groups and institutions
+most likely to vote for or against a given proposal. From
+there, they can more accurately forecast vote projections
+and allocate resources.
+Along with campaign planning, funds use analytics to
+track and forecast votes in real time, enabling on-the-fly
+adjustment. First, funds identify shareholders who haven’t
+yet voted. Then, they issue targeted reminders based on an
+analysis of communication methods most likely to generate
+a response. There’s no reason to spend money on phone calls
+to shareholders who are unlikely to respond. From planning
+through execution, data-driven analysis and targeting helps
+funds manage limited resources more effectively.
+
+DISCRETIONARY VOTING:
+REACH QUORUM FASTER
+
+In certain cases, funds may rely on broker
+discretionary voting to reach quorum.
+Discretionary voting applies in cases where
+the meeting agenda contains routine items.
+These rules enable brokers to vote on behalf
+of shareholders (if shareholders don’t provide
+specific instruction). When planning a proxy,
+it is important to know which brokers support
+the discretionary voting and which do not.
+You can access historical voting data to identify
+brokers that tend to submit discretionary votes,
+as well as brokers that tend to vote according to
+management recommendations.
+WHEN FUNDS BUILD A PROXY
+SOLICITATION CAMPAIGN AROUND
+DISCRETIONARY VOTING, THEY CAN
+ACHIEVE QUORUM FASTER AND DRIVE
+BETTER OUTCOMES.
+
+NEXT-GENERATION PROXY VOTING
+
+5
+
+DRIVE THE VOTE
+Deliver more impactful communications.
+
+There’s an unfortunate myth in the proxy solicitation industry
+that digital communication methods aren’t as effective as paper.
+But the reality is that digital communications have proven to
+help funds achieve their proxy goals. The most successful funds
+have the full arsenal at the ready: social media, video, mobile,
+email, text messaging and digital delivery, in addition to printed
+mailings and outbound calling.
+Importantly, funds that adopt digital communications don’t stop
+using alternative methods altogether.
+A multi-pronged, omni-channel approach combines the best of
+both worlds. Paper proxies are effective. Paper proxies followed
+by social media reminders are more effective still.
+
+The key is finding ways to leverage
+digital tools to make
+traditional methods more effective.
+
+CHOOSE THE
+BUDGET-FRIENDLY OPTION
+
+Every fund knows that printing and distributing
+paper ballots can be enormously expensive.
+Postage alone consumes a significant portion
+of a fund’s proxy solicitation budget. Phone
+solicitation is an even pricier option.
+Digital communication eliminates most of
+those costs. You can easily scale up and deliver
+multiple reminders with marginal additional
+spend, making digital delivery an extremely
+budget-friendly option.
+
+Regardless of the approach, it’s vital to ensure that messaging is
+compelling, engaging and on brand. Plain proxy statements often
+go unread. That’s why industry leaders are using customized
+proxies, with engaging visuals and content, to drive engagement.
+The best funds even pay attention to small things, like enhanced
+packaging, which boost open rates and generate
+a better response.
+Another area gaining attention is shareholder education. Many
+shareholders call their advisor for help with proxy voting. It’s
+imperative, therefore, to make sure advisors are informed and
+knowledgeable, and can help navigate shareholders through the
+process. Some funds send Q&As to advisors in advance. That
+way, advisors are prepared to educate their clients about what’s
+at stake and inform them of all available voting options.
+
+6
+
+BROADRIDGE
+
+In the very near future,
+it will be possible to
+facilitate voting directly
+via text messages.
+
+The rise of social media and
+text messaging
+Social media platforms represent an incredible
+opportunity for funds to maximize shareholder
+participation. Native platform marketing tools
+enable funds to target shareholders with
+pinpoint accuracy (thanks to extremely rich
+user analytics). Some funds even design ads
+to target specific shareholder segments.
+
+Text messaging is also gaining popularity.
+Digital consent, text message notifications
+and reminders can direct shareholders to
+voting websites. Compared to phone calls,
+text messaging is non-invasive. Shareholders
+can respond at their convenience.
+
+68%
+
+of U.S. adults
+report that
+they are
+Facebook users
+
+75%
+
+of those users
+access Facebook
+on a daily basis
+Source: Pew Research Center
+
+Text messaging combined with social
+media advertising has been shown to
+significantly boost voting rates. Best of
+all, social media and text messaging are
+comparatively cost-effective, especially
+compared to mail and phone campaigns.
+
+Year over year the Broadridge
+mobile voting platform has seen
+
+15% 27%
+growth
+in votes
+
+growth in
+shares voted
+
+NEXT-GENERATION PROXY VOTING
+
+7
+
+CAPTURE THE VOTE
+Make voting easier for shareholders.
+
+Consumer expectations are changing as fast as technology
+itself. Everything must be quicker, easier, more intuitive.
+Shareholders want the same kind of experience they’re getting
+everywhere else. No matter how sophisticated or advanced
+targeting techniques are, funds can’t convert entitlements
+if they don’t provide the convenience and accessibility
+shareholders have come to expect.
+If you want to get the vote, make it easy — and provide more
+options. Each voting option translates into better outcomes
+for funds.
+
+HOW FUNDS ENABLE SHAREHOLDERS TO VOTE:
+
+• Paper mailing
+
+• Digital shareholder mailbox
+
+• Phone
+
+• Social media link
+
+• Email
+
+• Mobile voting site
+
+TOP FIVE REASONS TO ADOPT
+DIGITAL PROXY COMMUNICATIONS
+
+1
+
+Shareholders prefer it.
+
+2
+
+Competitors are stepping up.
+
+3
+
+It’s proven to work.
+
+4
+
+Speed matters.
+
+5
+
+It saves money.
+
+Shareholders demand the same kind of
+consumer-first experience they’re getting
+everywhere else.
+
+Funds that don’t use digital
+communications are already behind.
+
+• Text messaging
+
+Shareholders who prefer digital channels vote at roughly the
+same rate as paper-only shareholders. They also tend to vote
+sooner and hold more shares (on average). For years, Broadridge
+has helped funds expand the use of digital voting. Today, about
+35 percent of proxy votes are cast via electronic ballots, slightly
+below the 40 percent cast by paper ballots (the remaining
+vote by various means, including touchtone phone, third-party
+advisors and outbound solicitation). Expect this ratio to move
+more toward electronic voting in the next few years.
+Digital voting generates participation from a wider swath of
+shareholders. Our internal data shows that digital tools are
+more likely to bring first-time voters into the fold. In addition,
+millennials and younger investors clearly respond more readily
+to digital communications. Long-term opportunity is created
+whenever funds make it easier to vote.
+
+8
+
+BROADRIDGE
+
+Shareholders who choose digital
+communications vote at roughly the same
+frequency as paper-only shareholders.
+
+Funds minimize voting turnaround time
+when they execute a digital-first strategy.
+
+Digital communications alleviate much
+of the costs associated with printing
+and postage.
+
+PROCESS THE VOTE
+Transform processing and reconciliation.
+
+In proxy voting, the question of who gets to vote is rather
+simple. And yet, the reality is that our investment ecosystem
+still contains too much uncertainty. In the last few decades,
+the proxy vote system has expanded into a vast and sprawling
+infrastructure, with multiple acting agents, issuers and brokers
+all operating through an intermediated holding system.
+Without accurate vote reconciliation, situations can arise
+where the mutual fund believes they have reached quorum
+when, in fact, they have not; or the fund may erroneously
+believe they failed to achieve quorum when, in fact, they
+have. In an era of increased shareholder activism, both of
+these flaws pose significant risks.
+
+At the extreme, successful meeting outcomes
+could be overturned if all votes cannot be
+reconciled with speed and accuracy.
+To address these challenges, Broadridge has developed a
+first-of-its-kind industry utility designed to streamline the
+proxy vote reconciliation process. Given our position at the
+center of the financial industry, we are uniquely positioned
+to track, account for and accurately tabulate outstanding
+shares to ensure only entitled beneficiaries vote — and to
+ensure all votes are accurately counted.
+
+THE BROADRIDGE
+RECONCILIATION PROCESS
+
+STEP 1
+
+Receive data
+
+STEP 2
+
+Perform systematic
+identification of
+registered data
+
+STEP 3
+
+Conduct a systematic
+entitlement match
+
+STEP 4
+
+Research data variances
+and discrepancies
+
+STEP 5
+
+Apply final vote
+entitlements
+
+NEXT-GENERATION PROXY VOTING
+
+9
+
+Tomorrow’s technology
+How blockchain eliminates the need for post-vote reconciliation.
+Recently, Broadridge completed a successful
+pilot with a corporate issuer using blockchain
+technology to revolutionize the way proxy
+votes are distributed, managed and tabulated.
+Although the technology is not yet available
+for open-end mutual funds, our engineers are
+finding promising applications for ETFs and
+closed-end funds.
+
+Blockchain streamlines the proxy-voting
+process by using distributed
+ledger technology to generate
+an immutable and shared
+record of all voting activity.
+
+10 BROADRIDGE
+
+The hyper-secure blockchain recordkeeping
+mechanism enables real-time proxy vote
+reconciliation, driving improved efficiency, cost
+savings and confidence.
+The advantage is clear: Since there is only one
+recordkeeping system, built on a distributed
+ledger, there’s no need to reconcile multiple
+databases or systems. Problems associated with
+overvoting and missing votes are eliminated
+during the voting process, making post-vote
+reconciliation unnecessary.
+In the end, all parties are confident in the voting
+outcome because there is a single, immutable
+record of all transactions.
+
+Blockchain maximizes voting efficiency, security and confidence
+Here’s how the process works: Issuers import
+meeting information onto a distributed ledger
+(decentralized database), including agenda
+items and event details. At the same time, the
+fund may define specific rules related to the
+meeting. These rules establish what’s called a
+“smart contract.”
+
+A smart contract is a computer protocol
+that contains the processing logic for the
+shareholder meeting. It specifies things like:
+• When notifications should be distributed
+• What constitutes quorum
+• Who is entitled to vote
+• Which parties can have access to what
+information and when
+
+CUSTODIANS
+
+MEETING SMART CONTRACT
+ISSUER AGENT
+
+SUB-CUSTODIANS
+
+INVESTORS/
+VOTING AGENTS
+
+DISTRIBUTED LEDGER
+
+Entitled voters will be able to use Broadridge
+proxy systems to cast their votes onto the
+distributed ledger. Each time a vote is imported
+onto the ledger, it creates an individual
+cryptographically-signed block. Because each
+block is an immutable record in the chain, the
+blockchain guarantees data privacy and security.
+
+NEXT-GENERATION PROXY VOTING 11
+
+INNOVATE TODAY. TRANSFORM TOMORROW.
+For more than 50 years, Broadridge’s industry-leading innovation
+has transformed proxy voting for thousands of clients. Broadridge
+manages the end-to-end proxy voting process across all distribution
+channels — from project planning and management, mailing and
+solicitation to voting tabulation. Our access to more than 800
+banks and brokers, as well as historical voting data, enables our
+clients to provide targeted, cost-effective campaigns that maximize
+engagement and long-term loyalty.
+
+LOOKING FOR MORE?
+Contact the contributors to this paper:
+Michael Collins
+Vice President and General Manager
+Mutual Fund Proxy Solutions
+michael.collins@broadridge.com
+Kristen Wisdom
+Assistant Vice President
+Mutual Fund Proxy Solutions
+kristen.wisdom@broadridge.com
+
+Broadridge Financial Solutions (NYSE: BR), a global Fintech leader with $5 billion in revenues, provides the
+critical infrastructure that powers investing, corporate governance, and communications to enable better financial
+lives. We deliver technology-driven solutions that drive business transformation for banks, broker-dealers, asset
+and wealth managers and public companies. Broadridge’s infrastructure serves as a global communications hub
+enabling corporate governance by linking thousands of public companies and mutual funds to tens of millions of
+individual and institutional investors around the world. Our technology and operations platforms underpin the
+daily trading of more than U.S. $9 trillion of equities, fixed income and other securities globally.
+
+broadridge.com
+
+© 2022 Broadridge Financial Solutions, Inc., Broadridge and the Broadridge
+logo are registered trademarks of Broadridge Financial Solutions, Inc.
+AM_00224_WP_22
+
+

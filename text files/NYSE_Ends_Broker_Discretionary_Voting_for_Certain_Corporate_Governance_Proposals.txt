@@ -1,0 +1,19 @@
+NYSE Ends Broker Discretionary Voting for Certain Corporate Governance Proposals (January 27, 2012)
+
+The New York Stock Exchange has announced that, in keeping with recent Congressional
+and public policy trends disfavoring broker voting of uninstructed shares (including the
+elimination of such voting in director elections by the NYSE and the elimination of such voting
+on executive compensation matters by the Dodd-Frank Act), the Exchange would end its prior
+policy of allowing broker voting on certain corporate governance proposals that are supported
+by management. Under this policy change, which is effective immediately, NYSE brokers will
+no longer be able to vote uninstructed shares on such proposals, including proposals to destagger the board of directors, implement majority voting in the election of directors, eliminate
+supermajority voting requirements, provide for the use of written consents, provide rights to
+call a special meeting and eliminate certain anti-takeover provisions.
+This change presumably will not apply to auditor ratification proposals, so broker non-votes
+can still be counted as “present” at the meeting and the ability to establish a quorum should
+not be affected.
+Companies should note that this change could affect the outcome of votes on these types of
+proposals, e.g., for companies where shareholder approval is measured by reference to
+shares entitled to vote on the matter, broker non-votes would function as a “no” vote.
+Companies listed on NASDAQ will also be impacted by these rules, as the change applies to
+NYSE brokers, not solely to NYSE-listed companies.

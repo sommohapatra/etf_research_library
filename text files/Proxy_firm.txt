@@ -1,0 +1,50 @@
+Proxy firm
+A proxy firm (also a proxy advisor, proxy adviser, proxy voting agency, vote service provider or shareholder voting research provider) provides services to shareholders (in most cases an institutional investor of some type) to vote their shares at shareholder meetings of, usually, listed companies.
+The typical services provided include agenda translation, provision of vote management software, voting policy development, company research, and vote administration including vote execution. According to their websites, not all firms provide voting recommendations and those that do may simply execute client voting instructions.
+The votes executed are called "Proxy Votes" because the shareholder usually does not attend the meeting and instead sends instructions - a proxy appointment - for a third party, usually the chairman of the meeting to vote shares in accordance with the instructions given on the voting card.
+Industry regulation[edit]
+On July 22, 2020 the SEC voted to effectively begin regulation of proxy firms by changing the terms of the solicitation exemption. After these regulations become effective proxy firms will be required to provide corporate issuers with a copy of all voting recommendation reports upon publication.[1]
+These regulations follow years of complaints by issuers and their associations about some proxy firms using effective control over a substantial part of the annual meeting vote to force issuers to purchase expensive consulting services should those same publicly traded companies wish proposals on executive compensation and similar issues to receive a positive vote.
+Global industry[edit]
+Firms in the industry include:
+- Egan-Jones Proxy Services, part of Egan-Jones Ratings Company (USA)[2]
+- Glass, Lewis & Co (USA)
+- Institutional Shareholder Services (USA) [3]
+- Institutional Investor Advisory Services India Limited (IiAS) (IN)
+Controversial role[edit]
+The role of proxy firms has come under considerable scrutiny in recent years, most notably from the corporate lobby in the United States.[4][5]
+In 2013, the US Securities and Exchange Commission fined ISS $300,000 for revealing non-public information in respect of clients proxy votes.[6]
+In May 2018, the Rock Center for Corporate Governance at Stanford University published an overview of the Proxy Advisor industry authored by J. Copland, D. Larcker and B. Tayan.[7] Some of the most concerning key findings of this report include:
+1- Number one player, ISS, and number two, Glass, Lewis & Co, together would have 97% market share of the industry.
+2- Limited transparency on the process these firms use to amend their proxy voting guidelines, although ISS at least gives some insight into its process.
+3- Neither of these two largest players discloses any of its past or current recommendations publicly, making it impossible to verify the historical validity of their voting recommendations.
+4- While evidence suggests that ISS recommendations are more influential on ultimate investor voting decisions than those from Glass, Lewis & Co, both have an impact, which can range from shifting 5%-30% of shareholder votes.
+5- Most of the academic research suggests that the proxy advisor recommendations do not add shareholder value, and that they in fact result in negative outcomes for shareholders.
+6- These firms have no fiduciary duty to anyone and therefore it is very difficult to hold them accountable for their work.
+7- These firms can succumb to conflicts of interest, which are often not disclosed.
+8- These firms may have resource constraints, which could negatively impact the quality of their recommendations.
+The researchers conclude that the industry exhibits signs of market failure, in that despite their demonstrated poor track record and questionable practices, the market has not been able to gradually eliminate them and they have in fact thrived.
+Conflicts of interest[edit]
+A potential conflict of interest identified by the Government Accountability Office is that some owners of proxy firms do business with both issuers and investors.[8] Analysis of executive remuneration, or executive pay, is a notable feature of the work of shareholder voting research.[9] Some policymakers believe that increasing competition in the industry may improve service quality. For example, in 2010 a Securities & Exchange Commission consultation document asked whether certain issues in the proxy advisory industry, including conflicts of interest, are affected by limited competition.[10]
+In April 2019, Glass, Lewis & Co controversially did not recuse itself from issuing voting recommendations in a proxy contest at Knight Therapeutics, a Canadian company. In advance of the May 7th, 2019 vote, Glass, Lewis & Co sided with the slate of nominees which included Kevin Cameron, a co-founder and past senior executive at Glass, Lewis & Co itself. This precedent could encourage future activist shareholders to include past proxy advisor senior executives in their nominee slates to unfairly obtain favorable recommendations.[11]
+Code of conduct[edit]
+Following a number of regulatory reviews by securities regulators, including the Canadian Securities Administrators[12] and the European Securities and Markets Authority (ESMA)[13] a number of firms have published a Code of Conduct: the Best Practice Principles for Shareholder Voting Research.[14] The Code was developed with an independent chairman, Dr Dirk Zetsche, Propter Homines Chair for Banking and Securities law at the Institute for Financial Services of the University of Liechtenstein and Director of the Center for Business & Corporate Law at Heinrich Heine University in Duesseldorf/Germany.[15]
+See also[edit]
+References[edit]
+- ^ "SEC.gov | SEC Adopts Rule Amendments to Provide Investors Using Proxy Voting Advice More Transparent, Accurate and Complete Information". www.sec.gov. Retrieved 2020-07-25.
+- ^ Harris, Roy (2007-05-30). "Proxy Firms Fire Back at Critics". CFO.com.
+- ^ J. de la Merced, Michael. "Vestar to Buy I.S.S., an Influential Shareholder Adviser". New York Times. Retrieved 14 June 2014.
+- ^ Alistair Barr & Jonathan Burton (2007-06-11). "Controversy ignites competition among proxy firms". Marketwatch.
+- ^ Dent, George W. (2014-01-01). "A Defense of Proxy Advisors". Rochester, NY: Social Science Research Network. SSRN 2451240.
+{{cite journal}}: Cite journal requires
+|journal=(help)
+- ^ "SEC.gov | SEC Charges Institutional Shareholder Services in Breach of Clients' Confidential Proxy Voting Information". www.sec.gov. Retrieved 2016-10-17.
+- ^ Copland, James; Larcker, David F.; Tayan, Brian (31 May 2018). "The Big Thumb on the Scale: An Overview of the Proxy Advisory Industry". SSRN 3188174.
+- ^ "The influence of proxy advisory firms on executive remuneration". Guerdon Associates. 2007-01-10. Archived from the original on 2008-07-21. Retrieved 2008-02-09.
+- ^ Zac Bissonnette (2008-01-15). "Proxy firm questions Tyson chief's pay".
+- ^ "Proxy Plumbing Concept Release" (PDF).
+- ^ "Knight Therapeutics April 27, 2019 Press Release".
+- ^ "Canadian Securities Administrators Publish Guidance for Proxy Advisory Firms".
+- ^ "ESMA LIBRARY". www.esma.europa.eu. Retrieved 2016-10-17.
+- ^ "Best Practice Principles for Shareholder Voting Research". 2014.
+- ^ "Best Practice Principles for Proxy Advisors and Chairman's Report". corpgov.law.harvard.edu. 10 June 2014. Retrieved 2016-10-17.

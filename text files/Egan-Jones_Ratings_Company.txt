@@ -1,0 +1,111 @@
+Egan-Jones Ratings Company
+|Type||Private company|
+|Industry||Financial services|
+|Founded||1995|
+|Founders||Sean Egan, CEO |
+Bruce Jones
+|Headquarters|
+United States
+Area served
+|Global|
+|Services|
+[2]
+Number of employees
+|50[3][4]|
+|Website||egan-jones.com|
+Egan-Jones Ratings Company is a nationally recognized statistical rating organization (NRSRO) that was founded in 1995 to provide "timely, accurate credit ratings."[2] Egan-Jones rates the credit worthiness of issuers looking to raise capital in private credit markets across a range of asset classes.[5]
+Typical issuers of rated securities include banks, asset managers, insurance companies, and other financial institutions.
+Egan-Jones positions itself as unique among NRSROs for being primarily investor-supported, a structure designed to minimize the potential for conflicts of interest in assessing credit quality.[6] Egan-Jones also provides ESG[7] and proxy advisory[8] services.
+History[edit]
+The firm was granted NRSRO status on December 21, 2007, making it the ninth such organization to be recognized by the SEC.[9] In 2014, Egan-Jones became certified by the EU ESMA as a credit rating agency.[10] In 2021, Egan-Jones became listed on the UK Financial Conduct Authority register as a certified credit rating agency.[11] The company is recognized by the National Association of Insurance Commissioners as a credit rating provider.[12]
+The effectiveness of Egan-Jones' investor-supported credit ratings has been measured by third parties, including Richard D. Johnson of the Kansas City Federal Reserve, the Stanford University Business School and the University of Michigan's Business School.[13]
+Sean Egan, principal of Egan-Jones Rating, appeared before Congress on October 22, 2008 and argued that issuers of complex securities "shopped" for ratings which resulted in a race to the bottom in terms of credit transparency. Rather than "beat up Moody's and S&P for behavior" they'd been financially motivated to pursue, the government needs to support a new business model paid for by investors, not issuers, to support the funding ecosystem which has so severely broken down, he asserted.[14] Egan-Jones on July 16, 2011, became the first NRSRO to cut its rating on the United States from AAA to AA+.[15] On April 5, 2012, Egan-Jones downgraded the credit ranking of the United States for the second time (and within one year) from AA+ (Excellent) to AA (Very Good) assuming that the debt will reach $16.7 trillion by the end of 2012 while the GDP will not grow further $15.7 trillion limit and the debt to the GDP ratio will reach 112% of the national GDP which is the highest level since the WW II.[16] On September 14, 2012, Egan-Jones downgraded the credit rating of the United States for the third time from AA to AA-, the lowest of what is considered "high grade", as a reaction to QE3.[17]
+Egan-Jones was also the first to downgrade WorldCom and Enron.[18][19]
+Egan-Jones’ CEO, Sean Egan, was named by Fortune Magazine as the number one person for warning about the financial crisis of 2007–2008.[20]
+Private Placement Credit Ratings[edit]
+As a credit rating agency, Egan-Jones issues credit ratings for private instruments for a variety of issuers. Transactions include asset-based financings, corporate obligations, financial institution financings, funds, infrastructure, middle-market loans, project finance, leases, and real estate.[5]
+Unsolicited Credit Ratings[edit]
+Egan-Jones offers unsolicited ratings on a subscription basis to provide investors periodic updates on public companies’ credit quality. Egan-Jones has issued 20,000+ unsolicited credit ratings.[21][22]
+Other Services[edit]
+ESG Scores[edit]
+Egan-Jones offers ESG reports for clients to evaluate factors that drive environmental, social, and governance practices.[7]
+Proxy Advisory Services[edit]
+Since 2002, Egan-Jones has offered independent proxy advisory services for institutional investors including insurance companies, registered investment advisors, pension funds, Taft-Hartley funds, and family offices.[23] The firm covers all client equity holdings, and its recommendations are based on proxy voting guidelines chosen by the client.[8]
+Ratings Scale[edit]
+According to Egan-Jones' methodology, "ratings are opinions that reflect the creditworthiness of an issuer, a security, or an obligation. They are opinions regarding estimated loss based on forward-looking measurements that assess an issuer’s ability and willingness to make payments on outstanding obligations (whether principal, interest, dividend, or distributions) with respect to the terms of an obligation."[24]
+Long-Term Ratings Scale[edit]
+The ratings from 'AA' to 'CCC' may be modified by the addition of a plus (+) or minus (-) sign to show relative standing within the major rating categories.
+|Global Long-Term Rating Scale|
+|Investment grade|
+|Rating||Definition|
+|AAA||Egan-Jones expects AAA ratings to have the highest level of creditworthiness with the lowest sensitivity to evolving credit conditions.|
+|AA||Egan-Jones expects AA ratings to have a higher level of creditworthiness with very low sensitivity to evolving credit conditions.|
+|A||Egan-Jones expects A ratings to have the high level of creditworthiness with low sensitivity to evolving credit conditions.|
+|BBB||Egan-Jones expects BBB ratings to have the moderate level of creditworthiness with moderate sensitivity to evolving credit conditions.|
+|Speculative grade|
+|BB||Egan-Jones expects BB ratings to have a low level of creditworthiness with high sensitivity to evolving credit conditions.|
+|B||Egan-Jones expects B ratings to have a lower level of creditworthiness with higher sensitivity to evolving credit conditions.|
+|CCC||Egan-Jones expects CCC ratings to have a lowest level of creditworthiness with highest sensitivity to evolving credit conditions.|
+|CC||Egan-Jones expects CC ratings to have the lowest level of creditworthiness and some expectation of recovery.|
+|C||Egan-Jones expects C ratings to have the lowest level of creditworthiness and little expectation of recovery.|
+|D||Egan-Jones expects D ratings to have the no determinable level of creditworthiness with uncertain recovery expectations.|
+Short-Term Ratings Scale[edit]
+According to Egan-Jones' methodology, short-term ratings are "assigned to those obligations considered short-term in their relevant markets. In the U.S., for example, that means obligations with an original maturity of no more than 365 days (including commercial paper). Short-term ratings are also used to indicate the creditworthiness of an obligor with respect to possible "put" features on long-term obligations."
+|Global Short-Term Rating Scale|
+|Investment grade|
+|Rating||Definition|
+|A-1||Highest short-term creditworthiness|
+|A-2||Higher short-term creditworthiness|
+|A-3||Moderate short-term creditworthiness|
+|Speculative grade|
+|B||Low short-term creditworthiness|
+|C||Lowest short-term creditworthiness|
+|D||No discernable short-term creditworthiness|
+2012 SEC charges[edit]
+Charges[edit]
+The SEC warned Egan-Jones in October 2011 of a possible enforcement action.[25] On April 24, 2012, the SEC charged Sean Egan with numerous offenses including: making false and misleading statements in the firm's application to become a Nationally Recognized Rating Agency, violations of conflicts-of-interest and record keeping, and falsely stating that he was unaware if his paid clients were long or short specific securities that Egan-Jones rated. The Securities and Exchange Commission issued charges against the company, and its founder, Sean Egan, for "material misrepresentations and omissions in the company’s July 2008 application to register as a Nationally Recognized Statistical Rating Organization (NRSRO) for issuers of asset-backed securities (ABS) and government securities" as well as "material misrepresentations in other submissions furnished to the SEC and violations of record-keeping and conflict-of-interest provisions governing NRSROs."[26] The SEC alleged that among other violations Egan-Jones "allowed two analysts to participate in determining the credit ratings for issuers whose securities they owned", and "also (1) failed to make or retain a record of the procedures and methodologies it used to determine credit ratings".[27]
+Egan-Jones response[edit]
+|The material that we put down was accurate to the best of our ability. If we had to do it again today I’d say exactly the same thing.|
+|—Sean Egan, CEO, in an interview on CNBC[28][29]|
+Egan has stated, "Our job is to get back to work and focus on providing timely, accurate ratings and research. This will not have any effect on the firm's independence or our commitment to call credit quality as we see it, regardless of issuer."[30] Alan Futerfas, the firm's lawyer, has denied the allegations stating that "it’s clear the SEC has a bias against independent firms" noting that the SEC was using "hyper-technical" claims and that "these filings, new forms started in 2007, are subject to significant interpretation," and that "the firm used good faith and answered [questions on the forms] as best as it could."[31] Futerfas noted that "not one word in the [SEC's order] questions the quality, integrity and timeliness of the Egan-Jones ratings" and criticized the SEC for failing to take action against major NSROs which had "inflated their structured debt, rated junk AAA, and brought down the American economy, according to Congressional reports."[31][32] The SEC has not responded to Futerfas's remarks.
+Settlement[edit]
+On Jan. 22, 2013 the SEC announced that Egan-Jones has agreed to settle charges that they made willful and material misstatements and omissions when registering to become a NRSRO for asset-backed and government securities. Under the terms of the agreement, the firm is barred from rating government and asset-backed securities as a NRSRO for at least 18 months.[33]
+References[edit]
+- ^ "EGAN JONES RATINGS". Archived from the original on 2012-09-17. Retrieved 24 May 2017.
+- ^ a b "Egan-Jones Ratings Company". Archived from the original on 29 September 2021. Retrieved 1 October 2021.
+- ^ "Egan-Jones LinkedIn Page A". Retrieved 1 October 2021.
+- ^ "Egan-Jones LinkedIn Page B". Retrieved 1 October 2021.
+- ^ a b "Egan-Jones Private Placement Ratings". Retrieved 1 October 2021.
+- ^ Sean Egan. "Re: Comments on File Number 265-30, Comments to the Committee Meeting to be held on February 10, 2020" (PDF). Archived from the original (PDF) on 1 October 2021. Retrieved 1 October 2021.
+- ^ a b "Egan-Jones ESG Scores". Retrieved 1 October 2021.
+- ^ a b "Egan-Jones Proxy Services". Archived from the original on 9 June 2021. Retrieved 2 October 2021.
+- ^ "Current NRSROs". Archived from the original on 21 July 2021. Retrieved 1 October 2021.
+- ^ "ESMA certifies Egan-Jones Ratings Co. to operate in the EU" (PDF). ESMA. Archived from the original on 29 December 2020. Retrieved 1 October 2021.
+- ^ "Registered or certified CRAs". FCA. 13 March 2019. Archived from the original on 11 April 2021. Retrieved 1 October 2021.
+- ^ "Saratoga Investment Corp. Announces Offering of Notes Due 2025 and BBB Investment Grade Rating from Egan-Jones Ratings Company". Associated Press. Retrieved 3 October 2021.
+- ^ "Federal Reserve & Academic Studies - Egan-Jones Ratings Company". www.egan-jones.com. Retrieved 24 May 2017.
+- ^ "Congressional Record, Oct 22, 2008" (PDF). Archived from the original (PDF) on 25 April 2012. Retrieved 24 May 2017.
+- ^ Egan-Jones Cuts U.S. Rating to AA+ on Spending-Cut Concern, Bloomberg (July 18, 2011).
+- ^ Leong, Richard (6 April 2012). "Egan-Jones cuts U.S. rating on debt burden". Reuters. Retrieved 14 September 2012.
+- ^ Detrixhe, John (14 September 2012). "Egan-Jones Cuts U.S. Rating to AA- After Fed Adds to Stimulus". Bloomberg. Retrieved 14 September 2012.
+- ^ MacDonald, Elizabeth (19 April 2012). "Egan-Jones to Fight Potential SEC Charges". FoxBusiness. Archived from the original on 23 April 2012. Retrieved 26 April 2012.
+- ^ "Letter submitted by Egan-Jones Rating Company to SEC for November 12, 2002 hearing". sec.gov. Egan-Jones. 10 November 2002. Retrieved 26 October 2013.
+- ^ "8 who saw the crisis coming..." Fortune. Archived from the original on 17 January 2019. Retrieved 1 October 2021.
+- ^ "Egan-Jones Company Overview". Retrieved 2 October 2021.
+- ^ "Egan-Jones Credit Ratings and Research". Retrieved 2 October 2021.
+- ^ Kevin McManus. "Re: File No. S7-22-19" (PDF). SEC. Archived from the original (PDF) on 30 July 2021. Retrieved 2 October 2021.
+- ^ "Methodologies for Determining Credit Ratings (Main Methodology)" (PDF). Egan-Jones Ratings Company. Retrieved 2 October 2021.
+- ^ NEUMANN, JEANNETTE (April 24, 2012). "SEC Charges Egan-Jones, Says Firm Exaggerated Its Expertise". WSJ. Retrieved 26 April 2012.
+- ^ "Egan-Jones Ratings Co. and Sean Egan Charged with Making Material Misrepresentations to SEC". U.S. Securities and Exchange Commission. April 24, 2012. Retrieved 26 April 2012.
+- ^ https://www.sec.gov/litigation/admin/2012/34-66854.pdf[bare URL PDF]
+- ^ Abramowicz, Lisa (Apr 19, 2012). "Egan-Jones Defends Credit Rating Business as SEC Weighs Charges". Bloomberg. Retrieved 26 April 2012.
+- ^ Beller, Margo D. (19 Apr 2012). "Sean Egan: No Basis for SEC to Accuse Ratings Firm". CNBC. Archived from the original on 20 May 2012. Retrieved 26 April 2012.
+- ^ Bases, Daniel; Luciana Lopez (Apr 23, 2012). "Egan-Jones: SEC probe will not affect ratings independence". Reuters. Retrieved 26 April 2012.
+- ^ a b Fontevecchia, Agustino (2012-04-24). "Egan-Jones' Lawyer Accuses SEC Of Bias Against Independent Firms". Forbes. Retrieved 26 April 2012.
+- ^ "SEC accuses Egan-Jones of making false statements". Associated Press. 24 Apr 2012. Retrieved 26 April 2012.[permanent dead link]
+- ^ "Egan-Jones and Founder Sean Egan Agree to 18-Month Bars from Rating Asset-Backed and Government Securities Issuers as NRSRO". January 22, 2013. Retrieved 18 February 2013.
+External links[edit]
+|External video|
+|Sean Egan on Potential SEC Charges, CNBC|
+- Official website
+- Press Release responding to SEC charges, April 19, 2012

@@ -1,0 +1,13 @@
+ICI Supports Modernization of Proxy Voting Reporting
+Proposal Poses Significant Challenges for Funds That SEC Must Address
+Washington, DC; December 14, 2021—The Investment Company Institute (ICI) filed a comment letter with the Securities and Exchange Commission (SEC) today saying that the agency needs to modify some of its changes to Form N-PX to achieve the goal of making funds’ proxy voting information more user-friendly.
+“We support many of the SEC’s proposed changes to Form N-PX, including requiring funds to use XML data tagging in their reports,” said ICI General Counsel Susan Olson. “But some of the proposal’s other elements greatly concern us. For example, the changes surrounding categorizing and standardizing information would make Form N-PX more confusing or present significant operational challenges to funds and managers. The result would be higher costs—which would come out of investors’ pockets. We urge the SEC to carefully weigh the operational costs and challenges of this proposal against its benefits.”
+Funds report all of their proxy votes on Form N-PX, and the proposal would increase the information funds must report about those votes.
+ICI’s Changes Will Help Make Form N-PX More User-Friendly and Address Operational Challenges
+ICI’s letter makes various recommendations, including:
+- Creating a simpler classification system for categorizing proxy votes (pages 4–6).
+- Instead of requiring funds to report the number of shares loaned but not recalled before a proxy vote, requiring them to describe their policies for recalling loaned securities (pages 6–10).
+- Requiring companies to data tag their proxy ballot items to make it easier for funds to describe them on Form N-PX in a way that mirrors the company’s ballot (pages 10–11).
+- Giving funds and managers a full reporting cycle under the new requirements—at least a year, instead of the proposed six months—to comply with the final rule (pages 11–12).
+- Analyzing the costs and burdens that any final rule would have on smaller funds and managers (pages 16–17).
+ICI’s letter also includes recommendations to address the challenges funds face both as issuers and investors, such as difficulties funds have in obtaining a quorum and confirming fund votes, and reforming the processing fee framework (pages 17–21).

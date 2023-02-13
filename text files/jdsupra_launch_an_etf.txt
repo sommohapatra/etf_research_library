@@ -1,0 +1,25 @@
+The ETF space has evolved to offer a lower barrier to entry, enabling certain ETF issuers a more cost-effective and expeditious launch.
+ETFs are most commonly structured as a Trust. When you launch an ETF, each ETF is a series of the Trust. The Trust itself engages all of the critical vendors/partners/trustees (see graphic below).
+When firms are looking to launch an ETF, they are immediately hit with a fork in the road… “Do I create the structure myself, or do I utilize a more turn-key model?”
+This series trust structure, or platform, has many names in the ETF space. It is sometimes called a white label solution, multiple series trust, or turn-key platform.
+These structures are run by either Custodians, Administrators, or ETF veterans. In each case, these platforms have pre-created the Trust structure for you, and pre-engaged all of the critical partners.
+WHERE DOES FORESIDE EXIST IN ALL OF THIS?
+Foreside does not have its own ETF turn-key platform, as we did not want to compete with our Partners. In many cases, these turn-key platforms approached Foreside to be a critical vendor.
+As a result, Foreside is the named distributor for many Series Trusts. We have become a go-to resource for firms navigating the ETF space through education, introductions, and intel.
+“WHAT ELSE DO I NEED, HOW MUCH, AND HOW FAST?”
+There are a variety of firms that fit well within a Series Trust structure, and their questions all remain the same… “what else do I need, how much does it cost, and how fast can my ETF become available?”
+NEEDS
+You may need to form an RIA to launch an ETF. This will give a firm the ability to serve as Advisor or Sub-Advisor of the ETF (depending on the platform). If a firm solely wants to create a custom index or serve as Sub-Advisor, there are platforms with in-house Advisors to help create the index or strategy into an ETF.
+WHICH FLAVOR?
+At a high level, there are three types of Series Trusts:
+- Co-Branded White Label: This is a pure white-label platform. In this structure, the platform is co-branding the ETF and providing its own sales and marketing. Firms can position themselves as the Sub-Advisor or Index Sponsor/Issuer in this structure. This model is the most turn-key white-label approach.
+- Bank / Admin-run Platforms: The other side of the Series Trust space is where Bank or Admin-run Series Trusts reside. In these structures, the Custodian or Administrator has pre-created a well-oiled Trust structure machine, by which a firm can launch its ETF. These structures do not provide an Advisor and would require the sponsor to create or bring an RIA to serve in this capacity. This model also enables the firm to source other supporting partners, such as ETF Marketing/PR, Sales, or underlying portfolio management and trading.
+- Hybrid White Label Platforms: The hybrid between these two structures is where ETF veterans have created the Trust structure and engaged all the necessary parties, but can also assist with either marketing, sales, and/or portfolio management and trading support. As opposed to co-branding, in a branded white-label structure, these models allow firms to use their own branding.
+COSTS AND TIMING
+Generally speaking, the costs are roughly the same across most Series Trusts. In our opinion, a firm should expect annual expenses in the range of at least $200 – $300K to operate the ETF in a Series Trust model. Platforms conduct their own diligence as well and would like to see firms understand a break-even point to be $30 – $50M, as well as having the ability to bring their own assets, and/or have a sales and distribution strategy in place.
+An ETF launch is driven by two distinct timelines: the RIA setup and the 75-Day SEC filing period (for ETFs relying on Rule 6c-11 “The ETF Rule”). Although they can happen concurrently, it is best practice to allow at least 90 days from start to finish.
+CONSIDERATIONS
+COST, CULTURE, AND FIT
+Why a firm chooses one structure over another really comes down to cost, culture, and fit. At the end of the day, you want to make sure you understand the costs, you are conducting proper diligence, and the platform understands your firm’s culture, vision, and strategy.
+OWNERSHIP OF THE ETF
+How you are structured within the Series Trust as the Advisor vs. Sub-Advisor vs. Index Sponsor/Issuer can dictate the association and “ownership of the ETF.”

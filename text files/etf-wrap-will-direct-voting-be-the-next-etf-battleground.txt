@@ -1,0 +1,20 @@
+Two passive behemoths went ‘vox populi, vox dei’ this week after passing on voting rights to index fund retail investors, however, the question now is what stands in the way of ETF investors receiving the same treatment?
+The first, valid reason is it remains to be seen what form the Vanguard and BlackRock’s new infrastructure for proxy voting will take.
+Vanguard said in a statement on Wednesday it would start trialling proxy voting for individual investors on some index funds in the US from early next year and gather feedback. For now, it appears investors will have the choice of allowing Vanguard to continue casting their votes, choosing to rely on a third party or not to vote at all.
+Less than a day later, BlackRock announced it would extend its ‘Voting Choice’ programme to retail clients.
+The scheme initially applied to institutional investors claiming around 47% of its indexed equity assets, though the firm chose to expand the scheme to Canadian and Irish pooled funds after investors managing $120bn chose how to cast their votes in just five months.
+Then, on Thursday, the world’s largest asset manager said it would broaden the scheme once again to include select mutual funds in the UK, whose investors will be allowed to on vote contested issues within fund constituent companies from next year.
+No doubt there will be several questions to answer once these two schemes go live next year – such as what kind of uptake they will have, how granular the voting opportunities should be and whether more disparate individual views end the collective power asset managers have when voting their shares as a block.
+These will need to be addressed before voting comes to other structures such as ETFs.
+Another issue is the challenge voting ETF shares would pose. One sticking point is the fact ETF issuers do not have full transparency on who is buying their ETFs as they are traded on exchange.
+This was a challenge iClima faced when they looked to offer clients the chance to directly vote their ETF assets through a fintech start-up called Tumelo.
+“With ETFs it is very hard to confirm who are the shareholders on record,” iClima co-founder and CEO Gabriela Herculano told ETF Stream.
+Instead, the firm now votes on behalf of shareholders in favour of impact outcomes and has gone against the management recommendations of 28 companies since it began voting in May.
+A prospective ETF issuer that gets around the anonymous owner problem is impact investing app, Circa 5000, which plans to launch its own products next year.
+When its ETFs are ordered by individual clients through its app, it can see who places orders and then buys ETF shares weekly on their behalf. Clients will then use the firm’s app to cast votes, which are then collated – or crowdsourced – to generate a firm-wide, majority-based decision on particular issues.
+How such issues are tackled will determine who steals an early advantage in the race to offer proxy voting to ETF investors. As larger asset managers focus on their other index-tracking structures to begin with, it may fall to smaller, ETF-specific issuers to lead this innovation.
+Paying 13 times over the odds for an index
+Consultancy firm Substantive Research found some index providers are charging asset managers up to 13 times more for a similar set of products than other clients, an issue not helped by the opacity of how providers price their products.
+The research noted accurate pricing in indexing has always been challenging given the difference in size, structure and business model of each firm, however, it argued transparency is especially important in niches where incumbent providers have pricing power due to a lack of viable alternatives.
+The ‘Big Three’ index providers currently account for 80% of passive equity fund assets and do not publish public data about their product fees, an issue which has come under increased regulatory scrutiny over the past year.
+ETF Wrap is a weekly digest of the top stories on ETF Stream
